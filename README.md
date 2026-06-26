@@ -1,18 +1,21 @@
-Hospital Emergency Room Dashboard – Power BI Project
+# 🏥 Hospital Emergency Room Dashboard – Power BI Project
 
 📌 Project Overview
 This project analyses hospital emergency room data to monitor operational efficiency, patient flow, and performance KPIs. The dashboard replaces manual reporting with interactive visual insights using Power BI.
 
-🎯 Objectives
-Analyse patient admission trends
-Measure average wait time
-Monitor patient satisfaction score
-Track department referrals
-Evaluate admission vs non-admission cases
+## 🎯 Objectives
+- Analyse patient admission trends
+- Measure average wait time
+- Monitor patient satisfaction score
+- Track department referrals
+- Evaluate admission vs non-admission cases
 
-🛠 Tools & Technologies Used
-Power BI
-Power Query
+## 🛠️ Tools & Technologies Used
+- Power BI
+- Power Query
+- DAX
+- Excel Dataset
+- Data Modelling (Star Schema)
 
 DAX
 Excel Dataset
